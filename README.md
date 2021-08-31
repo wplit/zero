@@ -8,10 +8,11 @@ This theme only serves as a placeholder for sites built with [Zion Builder Pro](
 
 There's no CSS or JS added on the front end at all. It just adds the very basic theme supports such as featured images, activating the WP menus, allowing wide block styles etc.
 
-## This 'Zero Theme' solves two problems..
+## This 'Zero Theme' solves a few basic problems..
 
 1. No more theme update notifications (assuming this is the only theme installed)
 2. No conflicting CSS classes from themes when using Zion Builder (looking at you Hello theme)
+3. Adds a few necessary theme features such enabling WP menus, features images, HTML5 markup.
 
 <img width=800 src="https://user-images.githubusercontent.com/43051571/131441194-02afa604-4a3c-4e30-8baa-e197a9a0e364.png">
 
