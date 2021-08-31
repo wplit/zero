@@ -20,10 +20,12 @@ function zero_register_menus() {
 add_action( 'init', 'zero_register_menus' );
 
 
-// Add support for post thumbnails
-function zero_post_thumbnails() {
-    add_theme_support( 'post-thumbnails' );
-    add_theme_support( 'editor-styles' );
-    add_theme_support( 'align-wide' );
+// Add theme ssupport
+function zero_theme_supports() {
+
+    add_theme_support( 'post-thumbnails' ); /* Enabled featured images */
+    //add_theme_support( 'editor-styles' ); /* Enabled block styles */
+    //add_theme_support( 'align-wide' );    /* Enables block wide alignments */
 }
-add_action( 'after_setup_theme', 'zero_post_thumbnails' );
+
+add_action( 'after_setup_theme', 'zero_theme_supports' );
