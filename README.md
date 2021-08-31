@@ -1,4 +1,4 @@
-# Zero Theme for Oxygen
+# Zero Theme for Zion Builder Pro
 **Contributors:** David Browne  
 **Tags:** zion builder  
 **License:** GPLv2 or later  
