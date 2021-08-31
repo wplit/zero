@@ -23,13 +23,13 @@ add_action( 'init', 'zero_register_menus' );
 // Add theme ssupport
 function zero_theme_supports() {
 
-    add_theme_support( 'post-thumbnails' ); /* Enabled featured images */
-    add_theme_support( 'responsive-embeds' );
+    add_theme_support( 'post-thumbnails' );
     add_theme_support( 'automatic-feed-links' );
     add_theme_support( 'html5', array( 'comment-list', 'comment-form', 'search-form', 'gallery', 'caption' ) );
-    
-    //add_theme_support( 'editor-styles' ); /* Enabled block styles */
-    //add_theme_support( 'align-wide' );    /* Enables block wide alignments */
+
+    //add_theme_support( 'editor-styles' );
+    //add_theme_support( 'align-wide' ); 
+    //add_theme_support( 'responsive-embeds' );
 }
 
 add_action( 'after_setup_theme', 'zero_theme_supports' );
