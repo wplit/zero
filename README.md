@@ -17,7 +17,7 @@ There's no CSS or JS added on the front end at all. It just adds the very basic 
 
 ## Installation ##
 
-1. [Download the theme here.](https://github.com/wplit/zero/archive/master.zip)
+1. [Download the theme here.](https://github.com/wplit/zero/archive/refs/heads/main.zip)
 2. Go to Themes > Add New in your WordPress admin. Click on `Upload Theme` and browse for the zip file.
 3. Activate the Theme.
 4. Replace stylesheet header found in theme if you wish include your own contact details where the theme info would be.
