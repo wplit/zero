@@ -13,7 +13,7 @@ There's no CSS or JS added on the front end at all. It just adds the very basic 
 1. No more theme update notifications (assuming this is the only theme installed)
 2. No conflicting CSS classes from themes when using Zion Builder (looking at you Hello theme)
 
-<img width=800 src="https://user-images.githubusercontent.com/43051571/52896497-04f33980-321d-11e9-9002-da0467284ae2.png">
+<img width=800 src="https://user-images.githubusercontent.com/43051571/131441194-02afa604-4a3c-4e30-8baa-e197a9a0e364.png">
 
 ## Installation ##
 
