@@ -24,6 +24,10 @@ add_action( 'init', 'zero_register_menus' );
 function zero_theme_supports() {
 
     add_theme_support( 'post-thumbnails' ); /* Enabled featured images */
+    add_theme_support( 'responsive-embeds' );
+    add_theme_support( 'automatic-feed-links' );
+    add_theme_support( 'html5', array( 'comment-list', 'comment-form', 'search-form', 'gallery', 'caption' ) );
+    
     //add_theme_support( 'editor-styles' ); /* Enabled block styles */
     //add_theme_support( 'align-wide' );    /* Enables block wide alignments */
 }
