@@ -12,7 +12,7 @@ There's no CSS or JS added on the front end from the theme at all. It just adds 
 ## This 'Zero Theme' solves a few basic problems..
 
 1. No more theme update notifications (assuming this is the only theme installed)
-2. No conflicting CSS classes from themes when using Zion Builder (looking at you Hello theme)
+2. No conflicting CSS classes from themes when using Zion Builder
 3. Adds a few necessary theme features such enabling WP menus, features images, HTML5 markup.
 
 <img width=800 src="https://user-images.githubusercontent.com/43051571/131780931-8f7ce375-12c1-4f62-9464-feff5db4ba9b.png">
