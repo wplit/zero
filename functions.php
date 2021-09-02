@@ -43,4 +43,5 @@ function zero_theme_supports() {
     //add_theme_support( 'align-wide' ); 
     //add_theme_support( 'responsive-embeds' );
 }
+
 add_action( 'after_setup_theme', 'zero_theme_supports' );
